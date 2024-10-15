@@ -1,0 +1,8 @@
+D:/L3G4200D_Sensor/STM32_HALDriver_Example/Example_I2C_Protocol/CMakeFiles/Example_I2C_Protocol.dir
+D:/L3G4200D_Sensor/STM32_HALDriver_Example/Example_I2C_Protocol/CMakeFiles/edit_cache.dir
+D:/L3G4200D_Sensor/STM32_HALDriver_Example/Example_I2C_Protocol/CMakeFiles/rebuild_cache.dir
+D:/L3G4200D_Sensor/STM32_HALDriver_Example/Example_I2C_Protocol/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/L3G4200D_Sensor/STM32_HALDriver_Example/Example_I2C_Protocol/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
+D:/L3G4200D_Sensor/STM32_HALDriver_Example/Example_I2C_Protocol/User_Libraries/L3G4200D_STM32_HALDriver/CMakeFiles/L3G4200D_HAL_I2C.dir
+D:/L3G4200D_Sensor/STM32_HALDriver_Example/Example_I2C_Protocol/User_Libraries/L3G4200D_STM32_HALDriver/CMakeFiles/edit_cache.dir
+D:/L3G4200D_Sensor/STM32_HALDriver_Example/Example_I2C_Protocol/User_Libraries/L3G4200D_STM32_HALDriver/CMakeFiles/rebuild_cache.dir
